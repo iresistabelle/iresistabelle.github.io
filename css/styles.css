@@ -1,0 +1,113 @@
+body { 
+
+font-family: 'Arial', cursive;
+
+  padding-top: 5rem;
+
+  background-color:white;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+}
+
+
+title {position:relative;
+top:px;
+}
+
+/*First world map image*/
+.parent {
+  position: relative;
+  top: 0;
+  left: 0;
+}
+
+.world {position: relative;
+  left: 0px;
+  right:40px;
+  top:-30px;
+  border: 0px 
+  z-index: 1;
+}
+
+.ireland {
+	position:absolute; 
+	left:555px;
+	top:245px;
+	 z-index: 3;
+	 opacity: 0;
+  filter: alpha(opacity=0); /* For IE8 and earlier */
+} 
+ 
+ /* FOOTER */
+.instagram 
+	{
+	position: absolute;
+	top:100%;
+	left:43%;
+	}
+.facebook 
+	{
+	position: absolute;
+	top:99.6%;
+	left:48%;
+	}
+.twitter 
+	{
+	position: absolute;
+	top:100%;
+	left:53.05%;
+	}
+
+/* NAVIGATION BAR */
+.topbar 
+	{
+	color: black;
+	width:100%;
+	height:100px;
+	background:;
+	transition: .5s;
+	}
+.navbar-brand
+	{ 
+    position: absolute;
+    margin-left: 45%;
+  	}
+
+/* Centered text */
+.centered 
+    {
+ 	position: absolute;
+ 	top: 50%;
+ 	left: 50%;
+ 	transform: translate(-50%, -50%);
+ 	}
+
+
+
+.starter-template {
+  padding: 3rem 1.5rem;
+  text-align: center;
+}
+
+* { color : black; 
+
+}
+
+
+
+
+
+h1 {position : relative;
+	top: -700px; 
+	left:-90px;
+	font-size: 15px
+}
+
+
+p { position : relative;
+	top: 14px; }
+
+
+
+
